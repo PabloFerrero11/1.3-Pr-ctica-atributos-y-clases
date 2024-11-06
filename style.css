@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f9fb;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+
+#nombre_ciudad {
+    color: #1e90ff; 
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+
+.descrip_ciudad {
+    color: #2e8b57; 
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    text-align: justify;
+    background-color: #e0f4e4; 
+    padding: 15px;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+
+.sitios_titulo {
+    color: #d2691e;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.sitios_ciudad {
+    color: #5a3e2b; 
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 10px;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+.sitios_ciudad li {
+    background-color: #f5e8da; 
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 5px solid #d2691e;
+    border-radius: 5px;
+}
+
+
+header {
+    text-align: center;
+    padding: 10px;
+}
+
